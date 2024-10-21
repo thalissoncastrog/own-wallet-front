@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Web development",
+      "type": "income",
+      "category": "Sale",
+      "price": 14000,
+      "createdAt": "2024-10-19T21:11:38.802Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Food",
+      "price": 50,
+      "createdAt": "2024-10-19T21:17:37.422Z"
+    },
+    {
+      "id": 3,
+      "description": "kimono",
+      "type": "outcome",
+      "category": "Clothes",
+      "price": 450,
+      "createdAt": "2024-10-19T21:24:37.422Z"
+    },
+    {
+      "description": "keyboard",
+      "price": 250,
+      "category": "sale",
+      "type": "income",
+      "createdAt": "2024-10-21T00:39:03.325Z",
+      "id": 4
+    }
+  ]
+}
